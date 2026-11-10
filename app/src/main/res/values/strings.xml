@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniLyrics</string>
+    <string name="artists_title">Artists</string>
+    <string name="albums_title">Albums</string>
+    <string name="tracks_title">Songs</string>
+    <string name="playlists_title">Playlists</string>
+    <string name="nowplaying_title">Now Playing</string>
+    <string name="search_title">Search Music</string>
+    <string name="search_lyrics">Search Lyrics</string>
+    <string name="search_hint">Search artists, albums, songs…</string>
+    <string name="forward_lyrics">Forward Lyrics (+0.5s)</string>
+    <string name="backward_lyrics">Backward Lyrics (-0.5s)</string>
+    <string name="preferences">Preferences</string>
+    <string name="about">About</string>
+    <string name="new_playlist">New Playlist</string>
+    <string name="create_playlist_create_text">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear_playlist">Clear Playlist</string>
+    <string name="delete_playlist_menu">Delete</string>
+    <string name="rename_playlist_menu">Rename</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="lyrics_display">Lyrics Display Options</string>
+    <string name="keep_screen_on">Keep screen on</string>
+    <string name="lyrics_font_size">Lyrics font size</string>
+    <string name="lyrics_align_mode">Lyrics text alignment</string>
+    <string name="pf_highlight_color">Highlight Lyrics Color</string>
+    <string name="pf_lowlight_color">Normal Lyrics Color</string>
+    <string name="pf_bg_color">Background Color</string>
+    <string name="no_suitable_lyrics">No suitable lyrics</string>
+    <string name="searching_lyrics">Searching lyrics…</string>
+    <string name="copyright">MiniLyrics • Synced Lyrics Player</string>
+</resources>

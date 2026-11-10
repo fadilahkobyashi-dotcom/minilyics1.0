@@ -1,0 +1,6 @@
+{
+  "name": "MiniLyrics",
+  "description": "Music player with real-time synchronized scrolling lyrics, karaoke highlighting, and online lyrics search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

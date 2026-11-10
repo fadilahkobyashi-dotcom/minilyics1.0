@@ -1,0 +1,1 @@
+# MiniLyrics Proguard rules
